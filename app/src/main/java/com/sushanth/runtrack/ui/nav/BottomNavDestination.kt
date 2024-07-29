@@ -5,7 +5,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.vectorResource
 import androidx.navigation.NavController
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 
 
 sealed class BottomNavDestination(

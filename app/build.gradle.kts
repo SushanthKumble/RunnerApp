@@ -1,3 +1,5 @@
+import com.android.build.api.dsl.Packaging
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin)
@@ -7,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.sdevprem.runtrack"
+    namespace = "com.sushanth.runtrack"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.sdevprem.runtrack"
+        applicationId = "com.sushanth.runtrack"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -45,7 +47,7 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.1"
     }
-    packagingOptions {
+    fun Packaging.() {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }

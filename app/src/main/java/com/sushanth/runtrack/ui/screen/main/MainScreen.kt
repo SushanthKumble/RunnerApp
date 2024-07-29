@@ -40,7 +40,7 @@ import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 
 import com.sushanth.runtrack.ui.common.compose.animation.ComposeUtils
 import com.sushanth.runtrack.ui.common.compose.compositonLocal.LocalScaffoldBottomPadding

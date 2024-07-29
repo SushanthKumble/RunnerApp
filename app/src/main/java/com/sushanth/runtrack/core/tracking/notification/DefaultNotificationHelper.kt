@@ -9,7 +9,9 @@ import android.os.Build
 import androidx.core.app.NotificationCompat
 import androidx.core.app.TaskStackBuilder
 import androidx.core.net.toUri
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
+
+
 import com.sushanth.runtrack.common.utils.DateTimeUtils
 import com.sushanth.runtrack.core.tracking.notification.NotificationHelper.Companion.TRACKING_NOTIFICATION_ID
 import com.sushanth.runtrack.core.tracking.service.TrackingService

@@ -37,7 +37,7 @@ import com.google.maps.android.compose.Marker
 import com.google.maps.android.compose.Polyline
 import com.google.maps.android.compose.rememberCameraPositionState
 import com.google.maps.android.compose.rememberMarkerState
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 
 import com.sushanth.runtrack.core.tracking.model.PathPoint
 import com.sushanth.runtrack.core.tracking.model.firstLocationPoint

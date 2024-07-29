@@ -45,7 +45,7 @@ import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 import com.sushanth.runtrack.core.data.model.User
 import com.sushanth.runtrack.ui.common.compose.component.UserProfilePic
 import com.sushanth.runtrack.ui.common.extension.bottomBorder

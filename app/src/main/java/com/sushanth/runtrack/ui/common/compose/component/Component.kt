@@ -34,7 +34,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 
 import com.sushanth.runtrack.common.extension.getDisplayDate
 import com.sushanth.runtrack.core.data.model.Gender

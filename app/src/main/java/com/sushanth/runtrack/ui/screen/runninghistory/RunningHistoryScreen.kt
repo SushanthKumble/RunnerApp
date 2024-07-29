@@ -42,7 +42,7 @@ import androidx.navigation.NavController
 import androidx.paging.LoadState
 import androidx.paging.compose.LazyPagingItems
 import androidx.paging.compose.collectAsLazyPagingItems
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 import com.sushanth.runtrack.core.data.model.Run
 import com.sushanth.runtrack.core.data.utils.RunSortOrder
 import com.sushanth.runtrack.ui.common.compose.component.DropDownList

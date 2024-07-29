@@ -41,7 +41,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 import com.sushanth.runtrack.ui.common.compose.component.RunningStatsItem
 import com.sushanth.runtrack.ui.common.compose.compositonLocal.LocalScaffoldBottomPadding
 

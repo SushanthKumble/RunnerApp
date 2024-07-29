@@ -28,7 +28,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import com.sdevprem.runtrack.R
+import com.sushanth.runtrack.R
 
 import com.sushanth.runtrack.core.tracking.location.LocationUtils
 import com.sushanth.runtrack.ui.common.compose.animation.ComposeUtils
